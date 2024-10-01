@@ -1,6 +1,4 @@
-# CS321-Group-5
-
-
+# Weather Web Application Project
 
 ### Contributors: 
 #### Liam Sardesai
